@@ -1,9 +1,8 @@
-# Selenium4_Python
-<h1>
-•	Page Object Model
-•	Screenshot
-•	Data driven testing with Excel
-•	Framework test: Pytest
-•	Report:  Pytest-html
-•	CI: Jenkin run with file .bat
-</h1>
+# Selenium4_Python</p>
+<p>•	Page Object Model</p>
+<p>•	Screenshot</p>
+<p>•	Data driven testing with Excel</p>
+<p>•	Framework test: Pytest</p>
+<p>•	Report:  Pytest-html</p>
+<p>•	CI: Jenkin run with file .bat</p>
+
